@@ -1,0 +1,22 @@
+/* Created by: Zaida Hammel
+* Created on: March 
+* This file contains the CSS for index.html
+*/
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-layout-title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.7rem;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
